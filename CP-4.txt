@@ -1,0 +1,14 @@
+//FUNCTION PART-2
+# include <stdio.h>
+int add(int a,int b)
+{
+    int c=a+b;
+}
+int main()
+{
+    int sum;
+    sum=add(5,4);
+    printf("Sum is %d\n",sum);
+    //As we are not using void hence we have to use return value
+    return 0;
+}
