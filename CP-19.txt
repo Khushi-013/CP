@@ -1,5 +1,4 @@
-//When one or more variables are grouped under one name it is known as structure
-//Structure is used to group different data into one object
+//Working with Structures
 #include<stdio.h>
 struct student
 {
