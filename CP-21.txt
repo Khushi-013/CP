@@ -1,7 +1,4 @@
-/*Function call by value is a method of passing arguments to the Function
-When we pass a variable by value it makes a copy of the variable
-Changes made to the arguments nside the function will remain in the function
-It will not be affected outside the function will remain in the function*/
+//Function call by value
 #include<stdio.h>
 int cube(int x)
 {
