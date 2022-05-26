@@ -1,6 +1,4 @@
 //String Library Functions
-//These are the group of functions implementing operations on strings
-//Various operations such as copying, concatenation, searching are supported
 #include<stdio.h>
 #include<string.h>
 int main()
