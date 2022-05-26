@@ -1,0 +1,16 @@
+//Pointers point to the locations in memory
+//Pointers store the memory address
+//it also gives value stored at that address
+#include <stdio.h>
+void main()
+{
+    long int num=10;
+    long int*ptr;
+    printf("num's address:%p\n",&ptr);
+    ptr=&num;
+    printf("pointer's address:%p\n",&ptr);
+    printf("pointer's size:%ld bytes\n",sizeof(ptr));
+    printf("ponters value:%p\n",ptr);
+    printf("value pointed to:%ld\n",ptr);
+    
+}
