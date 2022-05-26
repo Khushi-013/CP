@@ -1,0 +1,20 @@
+//When one or more variables are grouped under one name it is known as structure
+//Structure is used to group different data into one object
+#include<stdio.h>
+struct student
+{
+    int eng;
+    int maths;
+    int science;
+};
+int main()
+{
+    int total;
+    struct student stud;
+    stud.eng=75;
+    stud.maths=70;
+    stud.science=65;
+    total=stud.eng+stud.maths+stud.science;
+    printf("Total is %d\n",total);
+    return 0;
+}
