@@ -1,5 +1,5 @@
 //Second Program
-//Tokens
+//Printing different data types (Tokens)
 #include <stdio.h>
 int main()
 {
