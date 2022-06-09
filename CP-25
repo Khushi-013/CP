@@ -1,4 +1,4 @@
-//Function call by reference
+// Calling a function by Reference
 #include<stdio.h>
 int swap(int*a,int*b)
 {
