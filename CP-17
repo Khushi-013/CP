@@ -1,5 +1,4 @@
-//String is a sequence of characters that is treated as a single data item
-//size of string =length of string + 1
+//Reading & displaying a string
 #include<stdio.h>
 #include<string.h>
 int main()
