@@ -1,4 +1,4 @@
-//ARITHMETIC OPERATORS IN C
+// Demonstration of arithmetic operators
 # include <stdio.h>
 int main()
 {
