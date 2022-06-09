@@ -1,5 +1,5 @@
 //Third Program
-//Function to find sum of 2 integers (function with parameter passing)
+//Function to find sum of 2 integers 
 # include <stdio.h>
 void add()
 {
