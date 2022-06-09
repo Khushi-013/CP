@@ -1,4 +1,4 @@
-//SWITCH STATEMENT
+// Range of a number (Using Switch Statement)
 # include <stdio.h>
 int main()
 {
