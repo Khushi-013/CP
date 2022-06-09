@@ -1,4 +1,4 @@
-//Working with Structures
+// Creating Student Database (Structure)
 #include<stdio.h>
 struct student
 {
