@@ -1,4 +1,4 @@
-//NESTED IF STATEMENT
+// Range of a number (Using nested if else statement)
 # include <stdio.h>
 int main()
 {
