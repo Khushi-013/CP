@@ -1,4 +1,4 @@
-// Arrays
+// Sum of elements of an array (1D array)
 #include <stdio.h>
 int main()
 {
