@@ -1,4 +1,4 @@
-//Function call by value
+// Calling a Function by Value
 #include<stdio.h>
 int cube(int x)
 {
