@@ -1,0 +1,9 @@
+// Initialiazation of Strings
+#include <studio.h>
+#include <string.h>
+int main()
+{
+int strname[30]="Spoken-Tutorial";
+printf ("The string is %s\n",strname);
+return 0;
+}
