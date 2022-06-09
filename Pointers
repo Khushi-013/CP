@@ -1,6 +1,4 @@
-//Pointers point to the locations in memory
-//Pointers store the memory address
-//it also gives value stored at that address
+// Operations with pointer (Introduction to pointers)
 #include <stdio.h>
 void main()
 {
