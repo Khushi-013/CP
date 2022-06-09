@@ -1,4 +1,4 @@
-//IF AND ELSE IF STATEMENT
+// Check sum of two integers (Use of if-else statement)
 # include <stdio.h>
 int main()
 {
